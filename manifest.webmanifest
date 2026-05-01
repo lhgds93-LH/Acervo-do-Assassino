@@ -1,7 +1,7 @@
 {
-  "name": "O Acervo do Assassino — Sala 1",
-  "short_name": "O Acervo",
-  "description": "Point-and-click investigativo coop offline.",
+  "name": "O Acervo do Assassino",
+  "short_name": "Acervo",
+  "description": "Point-and-click investigativo cooperativo offline — Sala 1.",
   "start_url": "./index.html",
   "scope": "./",
   "display": "fullscreen",
@@ -10,16 +10,14 @@
   "theme_color": "#050505",
   "icons": [
     {
-      "src": "icons/icon-192.png",
+      "src": "icon-192.png",
       "sizes": "192x192",
-      "type": "image/png",
-      "purpose": "any maskable"
+      "type": "image/png"
     },
     {
-      "src": "icons/icon-512.png",
+      "src": "icon-512.png",
       "sizes": "512x512",
-      "type": "image/png",
-      "purpose": "any maskable"
+      "type": "image/png"
     }
   ]
 }
